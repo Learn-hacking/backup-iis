@@ -6,3 +6,62 @@ teacher's id:- shyaia.awasthi@iisecurity.in
 sir's contact :- mufaddal.taskin@iisecurity.in ,9890953110.
  CIA:- 
 thread:=> any incident or which has potintial to do damage (it may or may not effect)
+ types of network:-
+1) Bus network.
+2) Ring network.
+3) Star Network
+4) Hybrid Topology
+Types of Connection:-
+
+1) Simplex 
+2) Half Duplex
+3) Full Duplex
+
+
+What is Network:=
+A network consists of two or more computers that are linked in order to share resources (such as printers and CDs), exchange files, or allow electronic communications. The computers on a network may be linked through cables, telephone lines, radio waves, satellites, or infrared light beams.
+
+Two very common types of networks include:
+
+1) Local Area Network (LAN)
+2) Wide Area Network (WAN)
+
+Mac address :=>
+Mac address of a device which is facing a network.
+
+physical address (IP address)
+Logical address (Mac address)
+-------------------------------------------------------------------------
+ IANA (Internet Assigned Numbers Authority) => IANA is responsible for assigine the IP address 
+------------------------------------------------------------------------
+ ICANN (Internet Corporation for Assigned Names and Numbers) :=>
+	The Internet Corporation for Assigned Names and Numbers (ICANN, /ˈaɪkæn/ EYE-kan) is a nonprofit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces of the Internet, ensuring the network's stable and secure operation.[1] ICANN performs the actual technical maintenance work of the central Internet address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. The contract regarding the IANA stewardship functions between ICANN and the National Telecommunications and Information Administration (NTIA) of the United States Department of Commerce ended on October 1, 2016, formally transitioning the functions to the global multistakeholder community.[2][3][4][5]
+--------------------------------------------------------------------------
+
+
+Reginonal Internet Registires (RIR)
+Types of RIR:-
+APNIC - Asia Pacific Network Internet Center
+AFRINIC - African Network Intnet Center
+ARIN - Amreican Registring for Internet Working 
+LACNIC - Latin American Network Information Center
+RIPENCC - Réseaux IP Européens Network Coordination Centre
+
+Note:- All Indian uses APNIC (Like Vodafone , IDEA, Airtel)
+
+-------------------------------------------------------------------------
+
+OSI Model:=
+1) APP Layer		 		--------|--------
+2) Presentation Layer	 			|--- Top Most Three Layer (Called as Application Layer)
+3) Sessions Layer (Enthernet and data link)-----|--------	
+4) Transport Layer	 		   -----|---Transport Layer
+5) Network Layer				|--- Internet Layer
+6) Data Link Layer	   			|--|-Link Layer
+7) Physical Layer			 -------|--|
+
+------------------------------------------------------------------------
+Data Link:=
+	|--------> Logical Link Layer
+	|--------> MAC(Media Access Control) Layer 
+				|-----> CSMA(Corier Sense MUltiple Access)|CD(Collission Detection)
