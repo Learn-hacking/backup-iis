@@ -65,3 +65,21 @@ Data Link:=
 	|--------> Logical Link Layer
 	|--------> MAC(Media Access Control) Layer 
 				|-----> CSMA(Corier Sense MUltiple Access)|CD(Collission Detection)
+
+------------------------------------------------------------------------
+DTR (Dietetic Technician, Registered)
+
+D	0 	0	0
+T	0	0	1
+R	0	1	0
+
+--------------------------------------------------------------------------
+
+Option Kind 
+Option Data
+Option Length
+
+-------------------------------------------------------------------------
+Ports:= Ports are 16 bit of unsigned integer which is used to communicate .
+--------------------------------------------------------------------------
+
